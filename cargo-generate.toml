@@ -1,0 +1,10 @@
+[template]
+exclude = [
+    "*.png",
+    "*.jpg",
+    "*.jpeg",
+    "*.gif",
+    "*.bmp",
+    "*.ico",
+    "*.icon"
+]
